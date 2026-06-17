@@ -36,7 +36,7 @@ For a visual, beginner-friendly guide on how to launch your first virtual server
 [![Deploying to the Cloud for Beginners](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=E8xaV6fiTaA)
 
 *   [Watch the Cloud Deployment Guide](https://www.youtube.com/watch?v=E8xaV6fiTaA) 
-*   [Vercel Website Deployment Guides](https://www.youtube.com/results?search_query=deploying+website+in+vercel) 
+*   [Vercel Website Deployment Guides](https://www.youtube.com/results?search_query=deploying+website+in+vercel) \n
 *(Recommendation: Search for "Traversy Media Cloud Hosting for Beginners" or "FreeCodeCamp VPS Deployment" on YouTube for incredible point-by-point setup guides!)*
 
 ---
