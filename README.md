@@ -33,7 +33,7 @@ If you have a website ready and want to deploy it to the cloud for the first tim
 ### 📺 Step-by-Step Hosting Instructions
 For a visual, beginner-friendly guide on how to launch your first virtual server, configure network firewalls, and point a custom domain to it, check out this excellent walkthrough:
 
-[![Deploying to the Cloud for Beginners](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/watch?v=42K8x8_N_bM](https://www.youtube.com/watch?v=E8xaV6fiTaA))
+[![Deploying to the Cloud for Beginners](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/watch?v=42K8x8_N_bM](https://www.youtube.com/watch?v=E8xaV6fiTaA)
 *(Recommendation: Search for "Traversy Media Cloud Hosting for Beginners" or "FreeCodeCamp VPS Deployment" on YouTube for incredible point-by-point setup guides!)*
 
 ---
