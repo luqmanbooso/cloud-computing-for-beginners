@@ -33,7 +33,18 @@ If you have a website ready and want to deploy it to the cloud for the first tim
 ### 📺 Step-by-Step Hosting Instructions
 For a visual, beginner-friendly guide on how to launch your first virtual server, configure network firewalls, and point a custom domain to it, check out this excellent walkthrough:
 
-[![Deploying to the Cloud for Beginners](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/watch?v=42K8x8_N_bM](https://www.youtube.com/watch?v=E8xaV6fiTaA)
+[![Deploying to the Cloud for Beginners](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=E8xaV6fiTaA)
+
+*   [Watch the Cloud Deployment Guide](https://www.youtube.com/watch?v=E8xaV6fiTaA) – A step-by-step video breakdown on hosting your application.
+*   [Vercel Website Deployment Guides](https://www.youtube.com/results?search_query=deploying+website+in+vercel) – Curated search results for launching frontend apps on Vercel instantly.
+
+What fixed it:
+
+    The raw Markdown image syntax [![Alt Text](badge_url)](link_url) was accidentally nesting two different URLs inside each other.
+
+    It now points cleanly to [https://www.youtube.com/watch?v=E8xaV6fiTaA](https://www.youtube.com/watch?v=E8xaV6fiTaA) when they click the red YouTube badge.
+
+    Added the direct text link underneath for Vercel so they can easily click it if they want to try a quick frontend deployment.
 *(Recommendation: Search for "Traversy Media Cloud Hosting for Beginners" or "FreeCodeCamp VPS Deployment" on YouTube for incredible point-by-point setup guides!)*
 
 ---
